@@ -1,0 +1,70 @@
+---
+title: "關於 AI Coach 教你學習"
+page-layout: article
+format:
+  html:
+    toc: false
+    code-fold: false
+---
+
+# 🎓 關於 AI Coach 教你學習
+
+AI Coach 教你學習是一個以「IA 導向學習策略」為核心的教學推廣計畫，目標是：
+
+> **不取代你學習，而是幫助你學會如何學。**
+
+---
+
+## ✨ 我們相信：
+
+在 AI 時代，真正的教育不只是教你知識，而是幫你培養：
+
+- 問對問題的能力
+- 建立思考與行動的流程感
+- 善用 AI 作為**共學者**、**反思者**與**共創者**
+
+---
+
+## 🧠 AI Coach 是什麼？
+
+AI Coach 是一種教學思維，不是一種工具。
+
+它的角色不是「給你答案」，而是陪你：
+
+- 拆解問題、設計任務
+- 引導反思、強化結構
+- 協助你建立自己的 Prompt 與 IA 學習流程
+
+我們不主張 AI 代勞，我們主張：**AI 幫助你成為更會學的人。**
+
+---
+
+## 📚 核心主題（持續更新中）：
+
+- 提示語設計（Prompt Design）
+- IA 導向學習策略（Intelligence Augmentation）
+- 學習反思與任務導向教學
+- 教案設計與跨域課程資源
+- Python / R / Markdown / Quarto 實作教學
+
+---
+
+## 🤝 合作邀請
+
+我們歡迎所有對 AI 教學、教育設計、提示語學習有興趣的老師與學生加入：
+
+- 若你想**共備教案**：我們可以一起設計課程、反思任務與任務單
+- 若你想**共學實驗**：我們可以協助設計提示語學習任務並收集學習歷程
+- 若你想**推廣理念**：歡迎轉貼我們的貼文與教學資源，並標註來源即可 🙌
+
+---
+
+## 📬 聯絡我們
+
+- Facebook 粉專：[@AI Coach 教你學習](https://www.facebook.com/profile.php?id=61574504810303)
+- Medium 專欄：[AI Coach 教你學習](https://medium.com/@bigflowerfrancis)
+- GitHub 教案資源庫：[ai-coach-materials](https://github.com/bigflowerfrancis/ai-coach-materials)
+
+---
+
+> 🌱 **這是一場與你共學的長征，AI Coach 永遠在你旁邊。**

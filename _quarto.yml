@@ -13,6 +13,8 @@ website:
         href: index.qmd
       - text: "教案主文"
         href: learning-to-learn-with-ai.qmd
+      - text: "關於我們"
+        href: about.qmd  
       - text: "課程設計"
         href: files/ai-coach-role-lessonplan.md
     right:
@@ -24,13 +26,17 @@ website:
     contents:
       - index.qmd
       - learning-to-learn-with-ai.qmd
+      - about.qmd
       - section: "教案與資源"
         contents:
           - files/ai-coach-role-lessonplan.md
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: cosmo
+      dark: darkly
+    css: assets/custom.scss 
     toc: true
     toc-depth: 3
     code-fold: true
