@@ -1,0 +1,112 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AI Coach 教你學習",
+    "section": "",
+    "text": "AI Coach Banner",
+    "crumbs": [
+      "首頁",
+      "AI Coach 教你學習"
+    ]
+  },
+  {
+    "objectID": "index.html#精選文章不是教你內容而是教你怎麼學",
+    "href": "index.html#精選文章不是教你內容而是教你怎麼學",
+    "title": "AI Coach 教你學習",
+    "section": "🚀 精選文章：不是教你內容，而是教你怎麼學",
+    "text": "🚀 精選文章：不是教你內容，而是教你怎麼學\n想了解 AI Coach 是怎樣幫助你學習的？\n這篇是我們最核心的理念介紹文章，推薦先讀！\n👉 不是教你內容，而是教你怎麼學：AI 學習教練的角色進化",
+    "crumbs": [
+      "首頁",
+      "AI Coach 教你學習"
+    ]
+  },
+  {
+    "objectID": "index.html#教學資源索引建置中",
+    "href": "index.html#教學資源索引建置中",
+    "title": "AI Coach 教你學習",
+    "section": "📚 教學資源索引（建置中）",
+    "text": "📚 教學資源索引（建置中）\n\n\n\n類別\n內容\n狀態\n\n\n\n\n🧠 教學理念\nAI Coach 教你怎麼學、提示語框架介紹\n已上線\n\n\n🛠️ 工具實作\nPrompt 實驗、Python / R 任務設計\n整理中\n\n\n📖 學習筆記\n文獻摘要、模型思考與反思\n即將推出",
+    "crumbs": [
+      "首頁",
+      "AI Coach 教你學習"
+    ]
+  },
+  {
+    "objectID": "index.html#與我們一起學習",
+    "href": "index.html#與我們一起學習",
+    "title": "AI Coach 教你學習",
+    "section": "🤝 與我們一起學習",
+    "text": "🤝 與我們一起學習\n這是一個與你共學的計畫，不是單向教學。\n你可以把這裡的資源用於：\n\n個人學習計畫設計\n教學活動或課堂設計\n生成式 AI 素養訓練\n\n\n如果你有任何建議、想法或合作想討論，歡迎透過 Facebook、Medium 與我們聯繫！\n\n下一步建議：閱讀 👉 learning-to-learn-with-ai.qmd\n後續發展：我們會每週推出新的教學單元與提示語任務 💡",
+    "crumbs": [
+      "首頁",
+      "AI Coach 教你學習"
+    ]
+  },
+  {
+    "objectID": "learning-to-learn-with-ai.html",
+    "href": "learning-to-learn-with-ai.html",
+    "title": "不是教你內容，而是教你怎麼學：AI 學習教練的角色進化",
+    "section": "",
+    "text": "「我們正在進入一個時代：知識的獲得不再是學習的終點，而是學習的起點。」 ——AI Coach",
+    "crumbs": [
+      "首頁",
+      "不是教你內容，而是教你怎麼學：AI 學習教練的角色進化"
+    ]
+  },
+  {
+    "objectID": "learning-to-learn-with-ai.html#為什麼需要-ai-學習教練",
+    "href": "learning-to-learn-with-ai.html#為什麼需要-ai-學習教練",
+    "title": "不是教你內容，而是教你怎麼學：AI 學習教練的角色進化",
+    "section": "🎯 為什麼需要 AI 學習教練？",
+    "text": "🎯 為什麼需要 AI 學習教練？\n在 AI 時代，光會搜尋資料、問 ChatGPT 還不夠。真正的學習關鍵，不是找到答案，而是問對問題、設計流程、反覆修正。這正是 AI 學習教練的價值：\n\n🧠 不是教你內容，而是教你怎麼學。\n🧭 幫你建立結構化流程，學會自我引導。\n🔁 讓 AI 成為反思夥伴，而不是代勞工具。\n\n這也呼應了我們對 IA（Intelligence Augmentation）的信念：AI 不取代人，而是增強人。",
+    "crumbs": [
+      "首頁",
+      "不是教你內容，而是教你怎麼學：AI 學習教練的角色進化"
+    ]
+  },
+  {
+    "objectID": "learning-to-learn-with-ai.html#學習流程的轉變從內容導向到結構導向",
+    "href": "learning-to-learn-with-ai.html#學習流程的轉變從內容導向到結構導向",
+    "title": "不是教你內容，而是教你怎麼學：AI 學習教練的角色進化",
+    "section": "🧩 學習流程的轉變：從內容導向到結構導向",
+    "text": "🧩 學習流程的轉變：從內容導向到結構導向\n傳統教學強調「把知識講清楚」，但 AI Coach 模式更關注「怎麼讓你學會學」。這代表：\n\n\n\n傳統學習\nAI Coach 模式\n\n\n\n\n學習內容為主\n學習流程為主\n\n\n教你答案\n問你問題\n\n\n靠老師主導\n靠自己主導\n\n\n無結構地學\n有框架地學\n\n\n\n這就是我們設計提示語任務、反思筆記與小組討論的核心理念。",
+    "crumbs": [
+      "首頁",
+      "不是教你內容，而是教你怎麼學：AI 學習教練的角色進化"
+    ]
+  },
+  {
+    "objectID": "learning-to-learn-with-ai.html#ai-coach-怎麼幫你學會學",
+    "href": "learning-to-learn-with-ai.html#ai-coach-怎麼幫你學會學",
+    "title": "不是教你內容，而是教你怎麼學：AI 學習教練的角色進化",
+    "section": "🔧 AI Coach 怎麼幫你「學會學」？",
+    "text": "🔧 AI Coach 怎麼幫你「學會學」？\n\n任務導向設計：每個學習活動，都有明確目標與反思流程。\n提示語架構支援：用 C-CAFE-C 或其他框架，幫你寫出更好的 prompt。\n反覆回合學習：不是一次學會，而是不斷調整 → 試做 → 回饋 → 優化。\n真實任務驅動：不做假的練習，而是從生活、課程、研究出發。",
+    "crumbs": [
+      "首頁",
+      "不是教你內容，而是教你怎麼學：AI 學習教練的角色進化"
+    ]
+  },
+  {
+    "objectID": "learning-to-learn-with-ai.html#不是ai-教你而是ai-教你怎麼教自己",
+    "href": "learning-to-learn-with-ai.html#不是ai-教你而是ai-教你怎麼教自己",
+    "title": "不是教你內容，而是教你怎麼學：AI 學習教練的角色進化",
+    "section": "🧠 不是「AI 教你」，而是「AI 教你怎麼教自己」",
+    "text": "🧠 不是「AI 教你」，而是「AI 教你怎麼教自己」\nAI Coach 的重點，不在於它回答了什麼，而在於：\n\n它怎麼引導你提問。\n它怎麼幫你釐清邏輯。\n它怎麼讓你願意反覆嘗試與改進。\n\n如果說 ChatGPT 是工具，那 AI Coach 就是思考訓練師。它不幫你走路，但會陪你一起走——幫你設計路線、記錄進度、修正步伐。",
+    "crumbs": [
+      "首頁",
+      "不是教你內容，而是教你怎麼學：AI 學習教練的角色進化"
+    ]
+  },
+  {
+    "objectID": "learning-to-learn-with-ai.html#讓-ai-成為你學習的共同作者",
+    "href": "learning-to-learn-with-ai.html#讓-ai-成為你學習的共同作者",
+    "title": "不是教你內容，而是教你怎麼學：AI 學習教練的角色進化",
+    "section": "🚀 讓 AI 成為你學習的共同作者",
+    "text": "🚀 讓 AI 成為你學習的共同作者\n這篇文章，不只是介紹一個角色，而是一個邀請。\n從今天起，試著不只用 AI 找答案，而是讓它成為你共學的夥伴。\n讓我們一起練習： 「不是教你內容，而是教你怎麼學。」",
+    "crumbs": [
+      "首頁",
+      "不是教你內容，而是教你怎麼學：AI 學習教練的角色進化"
+    ]
+  }
+]
