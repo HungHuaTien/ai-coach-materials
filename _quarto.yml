@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "AI Coach 教學資源庫"
+  site-url: "https://bigflowerfrancis.github.io/ai-coach-materials"
+  repo-url: "https://github.com/bigflowerfrancis/ai-coach-materials"
+  favicon: /assets/img/ai-coach-banner.png
+  navbar:
+    left:
+      - text: "首頁"
+        href: index.qmd
+      - text: "教案主文"
+        href: learning-to-learn-with-ai.qmd
+      - text: "課程設計"
+        href: files/ai-coach-role-lessonplan.md
+    right:
+      - icon: github
+        href: https://github.com/bigflowerfrancis/ai-coach-materials
+  sidebar:
+    style: floating
+    search: true
+    contents:
+      - index.qmd
+      - learning-to-learn-with-ai.qmd
+      - section: "教案與資源"
+        contents:
+          - files/ai-coach-role-lessonplan.md
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    code-fold: true
+    code-summary: "顯示程式碼"
+    number-sections: false
