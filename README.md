@@ -1,5 +1,7 @@
 # AI Coach 教案與學習資源庫
 
+網站: https://hunghuatien.github.io/ai-coach-materials/
+
 這是 AI Coach 與協作教師共同打造的開放教學資源平台，專為推廣 AI + 教育創新、IA 筆記與學習設計而設計。
 
 ---
