@@ -5,7 +5,8 @@ date: 2025-04-15
 categories: [AI 教學, 學習策略, 教案設計] 
 image: /assets/img/ai-coach-banner.png 
 description: "AI Coach教你學習如何學習。"
-format: html: 
+format: 
+  html:
     toc: true 
     number-sections: false 
     code-fold: false
