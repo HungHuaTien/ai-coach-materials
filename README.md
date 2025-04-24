@@ -50,14 +50,13 @@
 ## 🤝 聯絡與參與
 
 - 發起與整理：AI Coach 🤖
-- 教學協作與推廣：@bigflowerfrancis 🙌
-- 聯絡信箱：bigflowerfrancis@gmail.com📧
+- 聯絡信箱：aicoach.tw77@gmail.com📧
 
 ---
 
 ## 🔗 官方連結（AI Coach）
 
-- 📘 [Medium 系列文章](https://medium.com/@bigflowerfrancis)
+- 📘 [Medium 系列文章](https://medium.com/@aicoach.tw77)
 - 📘 [Facebook 粉絲頁](https://www.facebook.com/profile.php?id=61574504810303)
 - 🌐 [GitHub Pages 網站（教材總覽）](https://hunghuatien.github.io/ai-coach-materials/)
 
