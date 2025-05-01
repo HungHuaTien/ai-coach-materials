@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "C–CAFE–C 提示語框架"
+  site-url: "https://bigflowerfrancis.github.io/ai-coach-materials/modules/c-cafe-c"
+  repo-url: "https://github.com/bigflowerfrancis/ai-coach-materials"
+  sidebar:
+    style: floating
+    search: true
+    contents:
+      - index.qmd
+      - 01-framework.qmd
+      - 02-examples.qmd
+      - 03-practice.qmd
+      - 04-teaching.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true

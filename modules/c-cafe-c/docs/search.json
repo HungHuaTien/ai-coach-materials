@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "C–CAFE–C 框架模組",
+    "section": "",
+    "text": "🎯 模組簡介\n本模組介紹一套結構化提示語設計方法 —— C–CAFE–C 框架。透過此六構面設計法，使用者可撰寫更具條理與任務導向的生成式 AI 指令語句。\n模組內容包含：\n\n架構說明與原理\n提示語設計範例\n練習卡操作任務\n教學建議與整合應用",
+    "crumbs": [
+      "C–CAFE–C 框架模組"
+    ]
+  },
+  {
+    "objectID": "04-teaching.html",
+    "href": "04-teaching.html",
+    "title": "04｜教學建議與應用策略",
+    "section": "",
+    "text": "教學重點是理解「生成式 AI 的本質」以及「提示語設計的重要性」。\n使用「C-CAFE-C」結構來協助學生快速掌握提示語基本功。\n引導學生從實際操作中體驗「指令清楚 ➔ AI 表現好」的邏輯。\n\n\n\n\n\n\n開場導入（5分鐘）\n\n以提問或小故事引起學生興趣\n簡單說明「提示語」與「生成式 AI」的關係\n\n核心概念講解（15分鐘）\n\n說明什麼是生成式 AI\n介紹 C-CAFE-C 框架\n提供壞提示語 vs 好提示語範例\n\n小組活動（20分鐘）\n\n小組選一個情境\n套用 C-CAFE-C 結構設計提示語\n實際輸入提示語給 AI，觀察回應\n\n分享與討論（15分鐘）\n\n各組簡單分享設計經驗\n討論什麼元素最關鍵？哪裡可以改進？\n\n課後延伸說明（5分鐘）\n\n鼓勵學生課後每天練習設計一個提示語\n\n\n\n\n\n\n\n強調「提示語沒有絕對對錯」，鼓勵學生勇於嘗試與改進。\n活動設計以「輕鬆、互動」為主，不用太嚴肅要求格式。\n若學生卡住，可以引導他們先把情境與目標說清楚，再逐步補齊角色、格式、範例、限制。\n\n\n\n\n\n\n\n\n\n任務目標：明確說出你要 AI 做什麼。\n範例：請撰寫一篇探討氣候變遷對糧食安全的摘要文章，語氣正式，篇幅 300 字內。\n\n\n\n\n\n\n指定 AI 角色（如：政策顧問、教師）\n指定任務背景（如：模擬簡報、教育說明）\n\n\n\n\n\n\n語氣是正式還是親切？\n對象是誰？（學生、主管、大眾）\n\n\n\n\n\n\n指定格式如 Markdown、表格、PPT 大綱、摘要條列等\n\n\n\n\n\n\n請參照成功提示語結構\n也可以提供反面例子進行說明\n\n\n\n\n\n\n不要超過字數、不得使用某些術語、避免特定語氣\n\n\n\n\n\n\n若初次不滿意，請生成三種語氣版本供選擇",
+    "crumbs": [
+      "04｜教學建議與應用策略"
+    ]
+  },
+  {
+    "objectID": "04-teaching.html#課程核心提示",
+    "href": "04-teaching.html#課程核心提示",
+    "title": "04｜教學建議與應用策略",
+    "section": "",
+    "text": "教學重點是理解「生成式 AI 的本質」以及「提示語設計的重要性」。\n使用「C-CAFE-C」結構來協助學生快速掌握提示語基本功。\n引導學生從實際操作中體驗「指令清楚 ➔ AI 表現好」的邏輯。",
+    "crumbs": [
+      "04｜教學建議與應用策略"
+    ]
+  },
+  {
+    "objectID": "04-teaching.html#建議教學流程",
+    "href": "04-teaching.html#建議教學流程",
+    "title": "04｜教學建議與應用策略",
+    "section": "",
+    "text": "開場導入（5分鐘）\n\n以提問或小故事引起學生興趣\n簡單說明「提示語」與「生成式 AI」的關係\n\n核心概念講解（15分鐘）\n\n說明什麼是生成式 AI\n介紹 C-CAFE-C 框架\n提供壞提示語 vs 好提示語範例\n\n小組活動（20分鐘）\n\n小組選一個情境\n套用 C-CAFE-C 結構設計提示語\n實際輸入提示語給 AI，觀察回應\n\n分享與討論（15分鐘）\n\n各組簡單分享設計經驗\n討論什麼元素最關鍵？哪裡可以改進？\n\n課後延伸說明（5分鐘）\n\n鼓勵學生課後每天練習設計一個提示語",
+    "crumbs": [
+      "04｜教學建議與應用策略"
+    ]
+  },
+  {
+    "objectID": "04-teaching.html#小提醒",
+    "href": "04-teaching.html#小提醒",
+    "title": "04｜教學建議與應用策略",
+    "section": "",
+    "text": "強調「提示語沒有絕對對錯」，鼓勵學生勇於嘗試與改進。\n活動設計以「輕鬆、互動」為主，不用太嚴肅要求格式。\n若學生卡住，可以引導他們先把情境與目標說清楚，再逐步補齊角色、格式、範例、限制。",
+    "crumbs": [
+      "04｜教學建議與應用策略"
+    ]
+  },
+  {
+    "objectID": "04-teaching.html#應用策略-生成式-ai-提問與追問任務",
+    "href": "04-teaching.html#應用策略-生成式-ai-提問與追問任務",
+    "title": "04｜教學建議與應用策略",
+    "section": "",
+    "text": "任務目標：明確說出你要 AI 做什麼。\n範例：請撰寫一篇探討氣候變遷對糧食安全的摘要文章，語氣正式，篇幅 300 字內。\n\n\n\n\n\n\n指定 AI 角色（如：政策顧問、教師）\n指定任務背景（如：模擬簡報、教育說明）\n\n\n\n\n\n\n語氣是正式還是親切？\n對象是誰？（學生、主管、大眾）\n\n\n\n\n\n\n指定格式如 Markdown、表格、PPT 大綱、摘要條列等\n\n\n\n\n\n\n請參照成功提示語結構\n也可以提供反面例子進行說明\n\n\n\n\n\n\n不要超過字數、不得使用某些術語、避免特定語氣\n\n\n\n\n\n\n若初次不滿意，請生成三種語氣版本供選擇",
+    "crumbs": [
+      "04｜教學建議與應用策略"
+    ]
+  },
+  {
+    "objectID": "02-examples.html",
+    "href": "02-examples.html",
+    "title": "02｜提示語範例集",
+    "section": "",
+    "text": "markdown複製編輯## Conclusion / Task\n請先幫我設計一份「完全資訊動態賽局」的學習計畫架構草圖。目標是劃分出3~5個主要模組，為每個模組命名並簡述其核心學習目標與分析對象，先不展開細節。\n\n## Context / Role\n你是一位熟悉賽局理論的 AI 教練，擅長幫助大學師生從初學者角度出發，建立應用導向的理論學習架構。\n\n## Audience / User\n我是一位正在規劃教案的老師，想以這份學習計畫作為教材基礎，並結合 GameStop、選舉等真實案例。\n\n## Format / Output\n請用 Markdown 條列出模組名稱、每個模組的學習目標（2行以內），並附上預估所需學習時間（粗略即可）。\n\n\n\n\nmarkdown複製編輯## Conclusion / Task\n請幫我展開上一份架構中的「模組二」，提供具體內容（學習目標、關鍵概念、常見錯誤、練習建議）。\n\n## Context / Role\n你是我在 IA 學習計畫中的 AI 教練，協助我逐步建構賽局理論能力。\n\n## Audience / User\n我是想將這套模型應用在經濟與社會議題研究的老師／研究者。\n\n## Format / Output\n請使用 Markdown 依以下格式編排：\n- 模組標題與簡介\n- 學習目標與預期成果（3點）\n- 核心概念與技能（列點）\n- 推薦資源（如教科書、影片、模擬器）\n- 常見錯誤與解法\n- 反思提問（2~3題）\n\n\n\n\nmarkdown複製編輯## Conclusion / Task\n請幫我針對上述學習計畫設計一份互動學習建議與實作資源列表，包含案例、模擬、程式碼或工具平台。\n\n## Context / Role\n你是我教案設計時的 IA 合作夥伴，目標是設計出讓學生能參與、能操作、能內化的學習歷程。\n\n## Format / Output\n請提供：\n1. 3~5個推薦互動活動（簡述活動形式與目標）\n2. 適合模擬賽局的工具（可為 Python 套件、網站或程式碼片段）\n3. 可搭配的資料來源、案例或新聞連結\n📦 附加建議：模組選用與標註方式 建議在每個提示語前用 # C-CAFE-C Prompt 作為標記\n可使用 🔸T, 🔹R, 🔹A, 🔸F… 表示模組屬性，方便未來檢索\n建立自己的「提示語元件庫」，依任務需求組裝",
+    "crumbs": [
+      "02｜提示語範例集"
+    ]
+  },
+  {
+    "objectID": "02-examples.html#以完全資訊動態賽局學習計畫為例拆解為三段式提示語",
+    "href": "02-examples.html#以完全資訊動態賽局學習計畫為例拆解為三段式提示語",
+    "title": "02｜提示語範例集",
+    "section": "",
+    "text": "markdown複製編輯## Conclusion / Task\n請先幫我設計一份「完全資訊動態賽局」的學習計畫架構草圖。目標是劃分出3~5個主要模組，為每個模組命名並簡述其核心學習目標與分析對象，先不展開細節。\n\n## Context / Role\n你是一位熟悉賽局理論的 AI 教練，擅長幫助大學師生從初學者角度出發，建立應用導向的理論學習架構。\n\n## Audience / User\n我是一位正在規劃教案的老師，想以這份學習計畫作為教材基礎，並結合 GameStop、選舉等真實案例。\n\n## Format / Output\n請用 Markdown 條列出模組名稱、每個模組的學習目標（2行以內），並附上預估所需學習時間（粗略即可）。\n\n\n\n\nmarkdown複製編輯## Conclusion / Task\n請幫我展開上一份架構中的「模組二」，提供具體內容（學習目標、關鍵概念、常見錯誤、練習建議）。\n\n## Context / Role\n你是我在 IA 學習計畫中的 AI 教練，協助我逐步建構賽局理論能力。\n\n## Audience / User\n我是想將這套模型應用在經濟與社會議題研究的老師／研究者。\n\n## Format / Output\n請使用 Markdown 依以下格式編排：\n- 模組標題與簡介\n- 學習目標與預期成果（3點）\n- 核心概念與技能（列點）\n- 推薦資源（如教科書、影片、模擬器）\n- 常見錯誤與解法\n- 反思提問（2~3題）\n\n\n\n\nmarkdown複製編輯## Conclusion / Task\n請幫我針對上述學習計畫設計一份互動學習建議與實作資源列表，包含案例、模擬、程式碼或工具平台。\n\n## Context / Role\n你是我教案設計時的 IA 合作夥伴，目標是設計出讓學生能參與、能操作、能內化的學習歷程。\n\n## Format / Output\n請提供：\n1. 3~5個推薦互動活動（簡述活動形式與目標）\n2. 適合模擬賽局的工具（可為 Python 套件、網站或程式碼片段）\n3. 可搭配的資料來源、案例或新聞連結\n📦 附加建議：模組選用與標註方式 建議在每個提示語前用 # C-CAFE-C Prompt 作為標記\n可使用 🔸T, 🔹R, 🔹A, 🔸F… 表示模組屬性，方便未來檢索\n建立自己的「提示語元件庫」，依任務需求組裝",
+    "crumbs": [
+      "02｜提示語範例集"
+    ]
+  },
+  {
+    "objectID": "01-framework.html",
+    "href": "01-framework.html",
+    "title": "01｜C–CAFE–C 框架定義",
+    "section": "",
+    "text": "第一部分：C-CAFE-C 模型結構與模組說明\nC-CAFE-C 是一個以「結論先行」為導向的提示語設計架構，適合學習教案、知識內化、教學互動等中高層任務，並具備模組化、可選配、易記憶的特性。\n\n\n\n\n\n\n\n\n模組代號\n名稱\n說明與語用片段範例\n\n\n\n\nC\nConclusion / Task\n要做什麼？「請幫我⋯」「我要你⋯」\n\n\nC\nContext / Role\n你是誰？「你是一位⋯」「你現在是⋯」\n\n\nA\nAudience / User\n對誰說？「我是⋯」「這是給⋯用的⋯」\n\n\nF\nFormat / Output\n要怎麼交付？「請用 Markdown⋯」「請列出⋯」\n\n\nE\nExample / Sample\n有參考嗎？「這是我希望你模仿的⋯」\n\n\nC\nConstraint / Limit\n有限制嗎？「避免⋯」「請不要使用⋯」\n\n\n\n\n\n\n\n\n\n\n\n\n\n任務規模\n適用任務\n建議模組組合\n\n\n\n\n小型任務\n單一練習、單一概念介紹\nTask + Role + Format (+ Constraint)\n\n\n中型任務\n一堂課、單一模組設計\nTask + Role + Audience + Output (+ Example)\n\n\n大型任務\n全期學習計畫、主題式設計\nTask + Role + Audience + Format + Example + Constraint（完整版 C-CAFE-C）",
+    "crumbs": [
+      "01｜C–CAFE–C 框架定義"
+    ]
+  },
+  {
+    "objectID": "01-framework.html#第二部分三種任務規模對應的模組組合建議",
+    "href": "01-framework.html#第二部分三種任務規模對應的模組組合建議",
+    "title": "01｜C–CAFE–C 框架定義",
+    "section": "",
+    "text": "任務規模\n適用任務\n建議模組組合\n\n\n\n\n小型任務\n單一練習、單一概念介紹\nTask + Role + Format (+ Constraint)\n\n\n中型任務\n一堂課、單一模組設計\nTask + Role + Audience + Output (+ Example)\n\n\n大型任務\n全期學習計畫、主題式設計\nTask + Role + Audience + Format + Example + Constraint（完整版 C-CAFE-C）",
+    "crumbs": [
+      "01｜C–CAFE–C 框架定義"
+    ]
+  },
+  {
+    "objectID": "03-practice.html",
+    "href": "03-practice.html",
+    "title": "03｜C–CAFE–C 練習卡集",
+    "section": "",
+    "text": "本單元提供多張提示語設計範例卡，協助學生模仿與建立屬於自己的提示語：\n\n\n\nConclusion / Task：請撰寫一段高中AI課程招生文案\nContext + Character：角色是高一導師，對象為學生家長\nAction：列出三大課程特色與學生受益\nFormat：使用條列式清單呈現\nExample：1. 專屬AI小班互動；2. 雙語素材引導；3. 簡報生成實作\nConstraint：限制150字以內，語氣需正式不口語\n\n\n\n\n\n\nConclusion / Task：請將以下段落摘要為三句重點\nContext + Character：你是學術研究助理，對象為論文作者\nAction：找出核心論點並簡化敘述\nFormat：三行摘要，逐行分點\nExample：‧ 本研究提出… ‧ 實驗證明… ‧ 結果指出…\nConstraint：不可加入新解釋，不可超過50字/句\n\n\n\n\n\n\nConclusion / Task：請將下列產品特色改寫為行銷亮點文案\nContext + Character：你是行銷企劃，面向一般大眾\nAction：根據技術敘述重新包裝文字\nFormat：三段文案，適合放在廣告宣傳圖中\nExample：搭載 AI 智能辨識，讓每一張照片更銳利\nConstraint：每段不超過30字，語氣需輕鬆吸引人",
+    "crumbs": [
+      "03｜C–CAFE–C 練習卡集"
+    ]
+  },
+  {
+    "objectID": "03-practice.html#範例卡-1撰寫高中ai課程招生文案",
+    "href": "03-practice.html#範例卡-1撰寫高中ai課程招生文案",
+    "title": "03｜C–CAFE–C 練習卡集",
+    "section": "",
+    "text": "Conclusion / Task：請撰寫一段高中AI課程招生文案\nContext + Character：角色是高一導師，對象為學生家長\nAction：列出三大課程特色與學生受益\nFormat：使用條列式清單呈現\nExample：1. 專屬AI小班互動；2. 雙語素材引導；3. 簡報生成實作\nConstraint：限制150字以內，語氣需正式不口語",
+    "crumbs": [
+      "03｜C–CAFE–C 練習卡集"
+    ]
+  },
+  {
+    "objectID": "03-practice.html#範例卡-2協助摘要學術論文段落",
+    "href": "03-practice.html#範例卡-2協助摘要學術論文段落",
+    "title": "03｜C–CAFE–C 練習卡集",
+    "section": "",
+    "text": "Conclusion / Task：請將以下段落摘要為三句重點\nContext + Character：你是學術研究助理，對象為論文作者\nAction：找出核心論點並簡化敘述\nFormat：三行摘要，逐行分點\nExample：‧ 本研究提出… ‧ 實驗證明… ‧ 結果指出…\nConstraint：不可加入新解釋，不可超過50字/句",
+    "crumbs": [
+      "03｜C–CAFE–C 練習卡集"
+    ]
+  },
+  {
+    "objectID": "03-practice.html#範例卡-3轉換產品規格為行銷語句",
+    "href": "03-practice.html#範例卡-3轉換產品規格為行銷語句",
+    "title": "03｜C–CAFE–C 練習卡集",
+    "section": "",
+    "text": "Conclusion / Task：請將下列產品特色改寫為行銷亮點文案\nContext + Character：你是行銷企劃，面向一般大眾\nAction：根據技術敘述重新包裝文字\nFormat：三段文案，適合放在廣告宣傳圖中\nExample：搭載 AI 智能辨識，讓每一張照片更銳利\nConstraint：每段不超過30字，語氣需輕鬆吸引人",
+    "crumbs": [
+      "03｜C–CAFE–C 練習卡集"
+    ]
+  }
+]
