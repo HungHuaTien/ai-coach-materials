@@ -1,31 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://bigflowerfrancis.github.io/ai-coach-materials/index.html</loc>
-    <lastmod>2025-04-15T13:50:50.958Z</lastmod>
+    <loc>https://bigflowerfrancis.github.io/ai-coach-materials/modules/c-cafe-c/index.html</loc>
+    <lastmod>2025-05-01T13:11:50.554Z</lastmod>
   </url>
   <url>
-    <loc>https://bigflowerfrancis.github.io/ai-coach-materials/learning-to-learn-with-ai.html</loc>
-    <lastmod>2025-04-15T13:03:49.338Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bigflowerfrancis.github.io/ai-coach-materials/about.html</loc>
-    <lastmod>2025-04-15T13:53:19.260Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bigflowerfrancis.github.io/ai-coach-materials/01-framework.html</loc>
-    <lastmod>2025-05-01T12:39:55.828Z</lastmod>
-  </url>
-  <url>
-    <loc>https://bigflowerfrancis.github.io/ai-coach-materials/04-teaching.html</loc>
+    <loc>https://bigflowerfrancis.github.io/ai-coach-materials/modules/c-cafe-c/04-teaching.html</loc>
     <lastmod>2025-05-01T12:29:02.574Z</lastmod>
   </url>
   <url>
-    <loc>https://bigflowerfrancis.github.io/ai-coach-materials/02-examples.html</loc>
+    <loc>https://bigflowerfrancis.github.io/ai-coach-materials/modules/c-cafe-c/02-examples.html</loc>
     <lastmod>2025-05-01T12:21:02.448Z</lastmod>
   </url>
   <url>
-    <loc>https://bigflowerfrancis.github.io/ai-coach-materials/03-practice.html</loc>
+    <loc>https://bigflowerfrancis.github.io/ai-coach-materials/modules/c-cafe-c/01-framework.html</loc>
+    <lastmod>2025-05-01T12:39:55.828Z</lastmod>
+  </url>
+  <url>
+    <loc>https://bigflowerfrancis.github.io/ai-coach-materials/modules/c-cafe-c/03-practice.html</loc>
     <lastmod>2025-05-01T12:02:56.956Z</lastmod>
   </url>
 </urlset>
